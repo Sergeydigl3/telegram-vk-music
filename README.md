@@ -1,9 +1,11 @@
 # Commands list
-> play - Играть/Пауза
-> next - Следующий трек
-> prev - Преведущий трек
-> ping - Проверка соединения
-> off - Выключение бота
+```
+play - Играть/Пауза
+next - Следующий трек
+prev - Преведущий трек
+ping - Проверка соединения
+off - Выключение бота
+```
 
 
 # Installation
@@ -11,15 +13,15 @@
 > Download the archive and unzip the Dist folder on your desktop
 
 ### Second step
-> Run Config Generator
-> Register the bot with [@BotFather](https://t.me/botfather)
-> 1.) Paste Bot Token
+> Run Config Generator\
+> Register the bot with [@BotFather](https://t.me/botfather)\
+> 1.) Paste Bot Token\
 > You can also immediately add commands
 
-> Get your id by writing to [@userinfobot](https://t.me/userinfobot)
+> Get your id by writing to [@userinfobot](https://t.me/userinfobot)\
 > 2.) Paste your id or ids using ","
 
-> 3.) Choose Chrome Path
+> 3.) Choose Chrome Path\
 > 4.) Save it!
 ### Third step
 > Close all Chrome tab in Task Manager

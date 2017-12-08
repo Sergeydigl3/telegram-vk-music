@@ -1,5 +1,0 @@
-('c:\\users\\serge\\appdata\\local\\programs\\python\\python36-32\\lib\\site-packages\\requests-2.18.4-py3.6.egg',
- None,
- {'*.py', 'EGG-INFO', '*.pyo', '*.so', '*.pyc', '*.pyd'},
- 'DATA',
- [])
